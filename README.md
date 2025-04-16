@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/7985fb43-d035-4622-a908-efc624398a64" alt="Microsoft Office 365 Logo"/>
 </p>
+
 
 <h1>Comparing Licenses</h1>
 This project outlines the installation of on-premises Active Directory within Azure Virtual Machines.<br />
