@@ -9,7 +9,7 @@ This project outlines the troubleshooting process of Outlook Office 365 using co
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Oracle Virtual Box
 - Remote Desktop Connection
 - Active Directory Domain Services
 - PowerShell
