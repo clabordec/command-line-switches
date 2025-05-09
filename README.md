@@ -3,8 +3,8 @@
 </p>
 
 
-<h1>Comparing Licenses</h1>
-This project outlines the installation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Command Line Switches</h1>
+This project outlines the troubleshooting process of Outlook Office 365 using command line switches.<br />
 
 
 <h2>Environments and Technologies Used</h2>
