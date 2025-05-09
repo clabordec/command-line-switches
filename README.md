@@ -9,15 +9,13 @@ This project outlines the troubleshooting process of Outlook Office 365 using co
 
 <h2>Environments and Technologies Used</h2>
 
-- Oracle Virtual Box
-- Remote Desktop Connection
-- Active Directory Domain Services
-- PowerShell
+- Microsoft 365
+- Microsoft Outlook
+- Command Line Run Switches
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows 11
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
