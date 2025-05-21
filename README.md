@@ -15,7 +15,7 @@ This project outlines the troubleshooting process of Outlook Office 365 using co
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11
+- Windows 10 Pro
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
